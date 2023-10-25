@@ -20,8 +20,7 @@
 
 - 📫 How to reach me **ankit.kotnala12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vnUUBknrrLYcbf8SHAkLkls5noI34Gv_/view?usp=sharing](https://drive.google.com/file/d/1vnUUBknrrLYcbf8SHAkLkls5noI34Gv_/view?usp=sharing)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1i6jyZ929OMgNrrByMEAmiKTF8kjziBcK/view?usp=sharing]
 - ⚡ Fun fact **I think i have a good sense of humour**
 
 <h3 align="left">Connect with me:</h3>
