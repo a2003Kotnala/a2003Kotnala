@@ -39,4 +39,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a2003kotnala&show_icons=true&locale=en&layout=compact" alt="a2003kotnala" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=a2003kotnala&show_icons=true&locale=en" alt="a2003kotnala" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a2003kotnala&show_icons=true&locale=en" alt="a2003kotnala" /></p>
