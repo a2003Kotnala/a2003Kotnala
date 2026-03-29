@@ -16,9 +16,9 @@
 ## About
 
 - SWE Intern at **Zinnia**
-- Working on **Sentiment Analysis on Social Media**
+- Working on **FollowThru - Turn every meeting into a team contract**
 - Focused on **production-ready AI systems**
-- Interests: **ML, DL, NLP, GenAI, Backend Engineering**
+- Interests: **ML, DL, NLP, GenAI, FastAPI, Frontend-Backend Engineering**
 - Writing at: [Medium](https://medium.com/@ankit.kotnala12)
 
 
