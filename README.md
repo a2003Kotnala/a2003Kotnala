@@ -49,6 +49,11 @@
 <td><b>Backend / MLOps</b></td>
 <td>FastAPI, Docker, PostgreSQL, REST APIs, AWS (EC2, SageMaker)</td>
 </tr>
+
+<tr>
+<td><b>Web Dev</b></td>
+<td>HTML, CSS, JS, React.Js, TypeScript, Node.Js</td>
+</tr>
 </table>
 
 
