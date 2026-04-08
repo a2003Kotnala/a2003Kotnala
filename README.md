@@ -69,9 +69,9 @@
 
 ## Projects & Writing
 
-- GitHub: https://github.com/a2003Kotnala  
-- Medium: https://medium.com/@ankit.kotnala12  
-- Resume: https://drive.google.com/file/d/1i6jyZ929OMgNrrByMEAmiKTF8kjziBcK/view  
+- **GitHub:** https://github.com/a2003Kotnala  
+- **Medium:** https://medium.com/@ankit.kotnala12  
+- **Resume:** https://drive.google.com/file/d/1szrV7cKwFIulJaXd_Ub_eOOLX2q_ok8B/view?usp=sharing  
 
 
 ## Connect
