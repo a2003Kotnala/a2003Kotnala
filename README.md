@@ -17,6 +17,7 @@
 
 - SWE Intern at **Zinnia**
 - Working on **FollowThru - Turn every meeting into a team contract**
+- Also, parallely working on **PrepareMe - Agentic AI platform for focussed study**
 - Focused on **production-ready AI systems**
 - Interests: **ML, DL, NLP, GenAI, FastAPI, Frontend-Backend Engineering**
 - Writing at: [Medium](https://medium.com/@ankit.kotnala12)
@@ -63,6 +64,7 @@
 - Building **LLM pipelines and workflows**
 - Strengthening **backend + deployment skills**
 - Exploring **fine-tuning vs retrieval trade-offs**
+- Exploring the concept of **persistent memory** in AI
 
 
 ## Projects & Writing
