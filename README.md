@@ -16,7 +16,7 @@
 <a href="mailto:ankit.kotnala12@gmail.com"><img src="https://img.shields.io/badge/Email-0E75B6?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://drive.google.com/file/d/1szrV7cKwFIulJaXd_Ub_eOOLX2q_ok8B/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0E75B6?style=flat-square&logo=googledrive&logoColor=white"/></a>&nbsp;
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=a2003kotnala&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ankit-kotnala&color=0e75b6&style=flat" />
 </p>
 </div>
 
@@ -86,13 +86,13 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=a2003Kotnala&theme=dark&hide_border=true&background=0d1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6&sideLabels=555555&sideNums=ffffff&currStreakNum=ffffff&dates=444444"/>
-    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=a2003Kotnala&theme=default&hide_border=true&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Kotnala&theme=dark&hide_border=true&background=0d1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6&sideLabels=555555&sideNums=ffffff&currStreakNum=ffffff&dates=444444"/>
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-Kotnala&theme=default&hide_border=true&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6"/>
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a2003Kotnala&theme=github_dark"/>
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a2003Kotnala&theme=default"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankit-Kotnala&theme=github_dark"/>
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ankit-Kotnala&theme=default"/>
   </picture>
 </div>
 
@@ -100,13 +100,13 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a2003Kotnala&theme=github_dark"/>
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a2003Kotnala&theme=default"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankit-Kotnala&theme=github_dark"/>
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankit-Kotnala&theme=default"/>
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a2003Kotnala&theme=github_dark"/>
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a2003Kotnala&theme=default"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ankit-Kotnala&theme=github_dark"/>
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ankit-Kotnala&theme=default"/>
   </picture>
 </div>
 
