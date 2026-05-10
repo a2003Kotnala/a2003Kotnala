@@ -24,7 +24,7 @@
 
 ## About
 
-- SWE Intern at **Zinnia**
+- Software Engineer at **Zinnia**
 - Working on **XMEM - The Memory Layer for AI That Never Forgets**
 - Also, parallely working on **AetherLearn - The classroom voice for every learner.**
 - Focused on **production-ready AI systems**
