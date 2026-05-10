@@ -25,8 +25,8 @@
 ## About
 
 - SWE Intern at **Zinnia**
-- Working on **FollowThru - Turn every meeting into a team contract**
-- Also, parallely working on **PrepareMe - Agentic AI platform for focussed study**
+- Working on **XMEM - The Memory Layer for AI That Never Forgets**
+- Also, parallely working on **AetherLearn - The classroom voice for every learner.**
 - Focused on **production-ready AI systems**
 - Interests: **ML, DL, NLP, GenAI, FastAPI, Frontend-Backend Engineering**
 - Writing at: [Medium](https://medium.com/@ankit.kotnala12)
