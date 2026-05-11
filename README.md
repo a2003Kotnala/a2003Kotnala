@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=SWE+Intern+%40+Zinnia;AI+%7C+ML+%7C+Backend+Engineering;Building+Production-Ready+Systems" />
 </p>
 
-
 <div align ="center">
 <a href="https://linkedin.com/in/ankit-kotnala-/"><img src="https://img.shields.io/badge/LinkedIn-0E75B6?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://twitter.com/ankitkotnala11"><img src="https://img.shields.io/badge/Twitter-0E75B6?style=flat-square&logo=twitter&logoColor=white"/></a>&nbsp;
@@ -30,7 +29,6 @@
 - Focused on **production-ready AI systems**
 - Interests: **ML, DL, NLP, GenAI, FastAPI, Frontend-Backend Engineering**
 - Writing at: [Medium](https://medium.com/@ankit.kotnala12)
-
 
 ## Tech Stack
 
@@ -80,7 +78,6 @@
 - Strengthening **backend + deployment skills**
 - Exploring **fine-tuning vs retrieval trade-offs**
 - Exploring the concept of **persistent memory** in AI
-
 
 ## Statistics
 
