@@ -78,6 +78,8 @@
 - Strengthening **backend + deployment skills**
 - Exploring **fine-tuning vs retrieval trade-offs**
 - Exploring the concept of **persistent memory** in AI
+- Exploring the way of going from **0 -> 1**
+- Bulding **scalable** systems
 
 ## Statistics
 
