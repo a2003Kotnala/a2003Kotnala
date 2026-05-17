@@ -33,9 +33,9 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,js,ts,java&perline=16" height="36"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,react,nodejs,docker&perline=16" height="36"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,aws,git&perline=16" height="36"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,ts,mongo&perline=16" height="36"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,react,nodejs,docker,pydantic,kubernetes&perline=16" height="36"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,aws,git&perline=16" height="36"/>
 </p>
 
 <table>
